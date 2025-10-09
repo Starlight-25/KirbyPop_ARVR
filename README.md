@@ -11,7 +11,7 @@ Kirby Pop is an AR/VR mobile game for Android developed with Unity version 6000.
 Kirby Pop is an immersive AR/VR mobile game developed in Unity for Android. In this project, I focused on creating an interactive augmented and virtual reality experience where players tap on Kirbys appearing around them before they get too close. The game combines spatial awareness with fast-paced, touch-based gameplay, allowing users to engage with virtual objects seamlessly in a real-world environment. This project showcases my ability to design intuitive AR/VR interactions and implement responsive gameplay mechanics for mobile platforms.
 
 ## Installation
-* Install the apk: [KirbyPop.apk](https://github.com/Starlight-25/KirbyPop_ARVR)
+* Install the apk: [KirbyPop.apk](https://github.com/Starlight-25/KirbyPop_ARVR/releases/download/v1.0/KirbyPop.apk)
 * Run the apk on Andoid
 * Open the application: KirbyPop
 
