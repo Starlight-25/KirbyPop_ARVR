@@ -34,13 +34,10 @@ In the pause menu, the player can view their maximum score and access several op
 * Quit – exit the game.
 
 ## License
-End-User License Agreement (EULA)
+Copyright (c) 2025 Starlight
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
-This game is licensed, not sold. By installing or using the software, you agree to the following terms:
+You are allowed to use this project for personal and non-commercial purposes only.
+Modification, redistribution, or commercial use of this project, in whole or in part, is strictly prohibited.
 
-1. You may use this software for personal entertainment.
-2. You may not redistribute, modify, or decompile this software.
-3. All content, including code, art, and audio, is owned by Starlight.
-4. This software is provided "as is", without warranty of any kind.
-
-© 2025 Starlight. All rights reserved.
+For full license details, see: https://creativecommons.org/licenses/by-nc-nd/4.0/
